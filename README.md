@@ -5,11 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:00B4D8,100:0D1117" width="100%" alt="Cyan signal divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:050A12,45:063B52,100:00B4D8&text=SHIVTEJ%20SALUNKE&fontColor=EAFBFF&fontSize=38&fontAlignY=38&desc=FPGA%20%7C%20RTL%20%7C%20EDGE%20AI%20%7C%20EMBEDDED%20SYSTEMS&descAlignY=60&descSize=13&animation=fadeIn" width="100%" alt="Animated cyan engineering header"/>
 
-# SHIVTEJ SALUNKE
-
-### `FPGA` · `RTL DESIGN` · `EDGE AI` · `EMBEDDED SYSTEMS`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=700&color=00B4D8&center=true&vCenter=true&width=720&lines=RTL+DESIGN+%2F+VERIFY+%2F+OPTIMIZE;FPGA+ACCELERATION+%2B+FIXED-POINT+ARITHMETIC;EMBEDDED+SENSING+%2B+EDGE+TELEMETRY;SIGNAL+PROCESSING+%2B+ENGINEERING+COMPUTATION" alt="Animated engineering focus"/></a>
 
 **Electronics & Telecommunication Engineering · Undergraduate Engineer**
 
@@ -19,6 +17,7 @@ Designing across the hardware/software boundary — from fixed-point datapaths a
   <a href="https://github.com/shivtejsalunke"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/shivtejsalunke"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00B4D8" alt="LinkedIn"/></a>
   <a href="mailto:shivtejsalunke23@gmail.com"><img src="https://img.shields.io/badge/CONTACT-0D1117?style=flat-square&logo=gmail&logoColor=00B4D8" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shivtejsalunke&style=flat-square&color=00B4D8&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:00B4D8,100:0D1117" width="100%" alt="Cyan signal divider"/>
@@ -29,11 +28,19 @@ Designing across the hardware/software boundary — from fixed-point datapaths a
 
 I’m an Electronics and Telecommunication Engineering student focused on **digital hardware, embedded computing, and intelligent edge systems**. My interests center on how algorithms become real implementations: arithmetic architecture, RTL control and verification, sensor-to-telemetry pipelines, and signal-processing workflows.
 
+<div align="center">
+
 ```text
-DESIGN FLOW
-  Model the problem  ->  Architect the datapath  ->  Implement
-          ->  Verify behavior  ->  Measure trade-offs
+  INPUT / SPECIFICATION
+          │
+          ▼
+  MODEL ──► ARCHITECT ──► IMPLEMENT
+                            │
+                            ▼
+  MEASURE ◄── OPTIMIZE ◄── VERIFY
 ```
+
+</div>
 
 | Domain | Current technical focus |
 |:--|:--|
@@ -112,30 +119,27 @@ A computational engineering study of eccentric geometry, tolerance accumulation,
 </tr>
 </table>
 
-## 02 / TECHNICAL TOOLCHAIN
+## 02 / TECH STACK — LOGIC TO EDGE
 
 <div align="center">
 
-**DIGITAL HARDWARE & FPGA**
+### DIGITAL DESIGN / FPGA
+<img src="https://skillicons.dev/icons?i=verilog&theme=dark" alt="Verilog logo" height="48"/>
+<img src="https://img.shields.io/badge/SystemVerilog-RTL-16324F?style=for-the-badge" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/AMD_Xilinx-Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="AMD Vivado"/>
 
-<img src="https://img.shields.io/badge/Verilog-RTL-16324F?style=flat-square&logoColor=white" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SystemVerilog-Design-16324F?style=flat-square&logoColor=white" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/Vivado-FPGA-E01F27?style=flat-square&logo=amd&logoColor=white" alt="Vivado"/>
+### EMBEDDED / FIRMWARE / CONNECTIVITY
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino&theme=dark" alt="C C++ and Arduino logos"/>
+<img src="https://img.shields.io/badge/STM32-MCU-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/MQTT-Telemetry-660066?style=for-the-badge" alt="MQTT"/>
 
-**EMBEDDED & CONNECTIVITY**
+### COMPUTING / DATA / SIGNALS
+<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode&theme=dark" alt="Python MATLAB Git GitHub and VS Code logos"/>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/STM32-MCU-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-<img src="https://img.shields.io/badge/MQTT-Telemetry-660066?style=flat-square" alt="MQTT"/>
-
-**COMPUTATION & SIGNAL ANALYSIS**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-<img src="https://img.shields.io/badge/KiCad-PCB-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"/>
-<img src="https://img.shields.io/badge/SolidWorks-CAD-DA291C?style=flat-square" alt="SolidWorks"/>
-<img src="https://img.shields.io/badge/Ansys-CAE-FFB71B?style=flat-square" alt="Ansys"/>
+### PCB / MECHANICAL / SIMULATION
+<img src="https://img.shields.io/badge/KiCad-PCB-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+<img src="https://img.shields.io/badge/SolidWorks-CAD-DA291C?style=for-the-badge" alt="SolidWorks"/>
+<img src="https://img.shields.io/badge/Ansys-CAE-FFB71B?style=for-the-badge" alt="Ansys"/>
 
 </div>
 
@@ -156,37 +160,61 @@ engineering_computation:
   - Tolerance stacks, sensitivity studies, numerical methods
 ```
 
-## 04 / GITHUB TELEMETRY
+## 04 / PROFILE ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/shivtejsalunke">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivtejsalunke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&rank_icon=github" alt="GitHub contribution statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivtejsalunke&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub overview analytics"/>
 </a>
 <a href="https://github.com/shivtejsalunke">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivtejsalunke&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" alt="Most-used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivtejsalunke&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9&custom_title=Language%20Mix" alt="Most-used repository languages"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivtejsalunke&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivtejsalunke&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak analytics"/>
+
+<br/>
+
+<a href="https://github.com/shivtejsalunke">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivtejsalunke&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievement trophies"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivtejsalunke&bg_color=0D1117&color=C9D1D9&line=00B4D8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
-## 05 / CONNECT
+> Analytics cards are generated by third-party services and reflect the public/account data those services can access. Language cards describe detected repository languages, not a verified ranking of personal proficiency.
+
+## 05 / CONTRIBUTION MATRIX — LIVE ANIMATION
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivtejsalunke/shivtejsalunke/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivtejsalunke/shivtejsalunke/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated snake moving through the contribution grid" src="https://raw.githubusercontent.com/shivtejsalunke/shivtejsalunke/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+## 06 / CONNECT
 
 I’m interested in technically demanding work and collaboration around **FPGA/RTL design, embedded engineering, Edge AI, and hardware–software co-design**.
 
 <div align="center">
 
-<a href="https://github.com/shivtejsalunke"><img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=flat-square&logo=github&logoColor=00B4D8" alt="Repositories"/></a>
-<a href="https://www.linkedin.com/in/shivtejsalunke"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=00B4D8" alt="LinkedIn"/></a>
-<a href="mailto:shivtejsalunke23@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=00B4D8" alt="Email"/></a>
+<a href="https://github.com/shivtejsalunke"><img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8" alt="Repositories"/></a>
+<a href="https://www.linkedin.com/in/shivtejsalunke"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B4D8" alt="LinkedIn"/></a>
+<a href="mailto:shivtejsalunke23@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00B4D8" alt="Email"/></a>
 
 <br/><br/>
 
 `DESIGN  /  IMPLEMENT  /  VERIFY  /  OPTIMIZE`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:00B4D8,100:0D1117" width="100%" alt="Cyan signal divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00B4D8,100:050A12" width="100%" alt="Cyan wave footer"/>
 
 </div>
